@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e303f156-4d49-4611-b38a-1808e22b36d0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FFKcgSoRtXeWuCmhL7MpsJtRV5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/motion_shop&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\motion_shop\Js" />
+      <recent name="C:\motion_shop\Css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e303f156-4d49-4611-b38a-1808e22b36d0" name="Changes" comment="" />
+      <created>1664082473090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664082473090</updated>
+      <workItem from="1664082474388" duration="244000" />
+      <workItem from="1664083327461" duration="1633000" />
+      <workItem from="1664085033436" duration="123000" />
+      <workItem from="1664085728826" duration="105000" />
+      <workItem from="1664086274988" duration="1554000" />
+      <workItem from="1664088959779" duration="2589000" />
+      <workItem from="1664091641055" duration="9009000" />
+      <workItem from="1664180430023" duration="239000" />
+      <workItem from="1664180713564" duration="8232000" />
+      <workItem from="1664190887106" duration="617000" />
+      <workItem from="1664191590969" duration="395000" />
+      <workItem from="1664192124127" duration="106000" />
+      <workItem from="1664204365513" duration="6951000" />
+      <workItem from="1664216123608" duration="372000" />
+      <workItem from="1664249257970" duration="5859000" />
+      <workItem from="1664366265864" duration="10247000" />
+      <workItem from="1664420549687" duration="3756000" />
+      <workItem from="1664424964948" duration="1928000" />
+      <workItem from="1664679853882" duration="761000" />
+      <workItem from="1664770133208" duration="680000" />
+      <workItem from="1664786061740" duration="39000" />
+      <workItem from="1664788961495" duration="2388000" />
+      <workItem from="1665026332099" duration="1939000" />
+      <workItem from="1665028879399" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

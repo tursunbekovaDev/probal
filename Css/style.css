@@ -1,0 +1,255 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+
+#header {
+    background: linear-gradient(90deg, #72072D 0%, #FF005C 100%);
+}
+
+
+
+.header {
+    padding: 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header h2{
+    width: 288px;
+    height: 48px;
+    left: 45px;
+    top: 58px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #FFFFFF;
+
+}
+
+.header input {
+    width: 550px;
+    height: 33px;
+    background: rgba(196, 196, 196, 0.14);
+    border: 1px solid #FFFFFF;
+    color: white;
+    font-size: 16px;
+    padding-left: 90px;
+    border-radius: 86px;
+}
+.vector{
+    position: absolute;
+    margin: 0 0 0 820px;
+}
+.fax{
+    padding: 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fax svg {
+    margin: 0 20px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img0 {
+    display: flex;
+    justify-content: space-between;
+    width: 985px;
+    height: 381px;
+    border-radius: 28px;
+    margin: 1px 0 0 -80px;
+    position: relative;
+}
+.img0 ul h1{
+    width: 908px;
+    height: 58px;
+    font-family: 'Inter',sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+
+
+    color: #72072D;
+
+}
+
+.img0 ul{
+    width: 708px;
+    height: 300px;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 20px 0;
+    position:absolute;
+    left:580px;
+    bottom:30px;
+    color: #72072D;
+}
+.img0 ul li{
+    font-family: 'Inter', sans-serif;
+    margin-top:50px;
+    width: 507px;
+    height: 29px;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    color: #FF005C;
+}
+.shan{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 94px 0 309px
+
+}
+.categoryImg{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.categoryImg img{
+    padding: 10px 10px 0 30px;
+}
+
+.photo {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 48px;
+    color: #72072D;
+    margin: 50px 0 10px 60px;
+}
+.img-photo{
+    display: flex;
+    justify-content: space-between;
+}
+.img-photo h5{
+    font-size: 16px;
+    line-height: 117.69%;
+    letter-spacing: -0.025em;
+    color: rgba(0, 0, 0, 0.79);
+}
+.img-photo h2{
+    font-size: 24px;
+    line-height: 117.69%;
+    /* or 28px */
+    letter-spacing: -0.025em;
+    color: #000000;
+}
+.photo h3{
+    margin: 0 0 40px;
+}
+.emae {
+    margin: 0 30px;
+}
+.maikl h2{
+    margin: 0 0 0 30px;
+}
+.maikl h5{
+    margin: 0 0 0 30px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.btn1{
+    margin: 100px 0;
+    width: 227px;
+    height: 48px;
+    left: 607px;
+    top: 2316px;
+    border: 1.5px solid #D118A8;
+    border-radius: 40px;
+    color:  #D118A8;;
+}
+footer{
+    width: 100%;
+    height: 320px;
+    background: linear-gradient(269.84deg, #FF005C -10.98%, rgba(0, 0, 0, 0.88) 100%);
+}
+
+.footerLogo{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-evenly   ;
+}
+
+.footerLogo1 h3{
+
+    padding:  80px 35px 100px 80px;
+
+}
+.footer2 p{
+    margin: 30px 0 20px 0;
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+}
+.footer3 p{
+    margin: 30px 0 0 50px;
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+}
+.footer4 h5{
+    margin: 30px 0 0 68px;
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+}
+.footer4 a{
+
+    margin: 32px -62px -24px 67px;
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+}
+
+
+.footerIcon {
+    display: flex;
+ margin-left: 4px;
+}
+.footer6{
+    margin: 30px 0 0 50px;
+    color: rgba(255, 255, 255, 0.68);
+}
+.footer6 p{
+    color: rgba(255, 255, 255, 0.69);
+}
+.line{
+    width: 1236px;
+   margin: 10px 0 0 140px  ;
+    height: 0px;
+    border: 0.5px solid rgba(255, 255, 255, 0.58);
+
+}
+.end p{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    color: rgba(255, 255, 255, 0.73);
+}
+
+
+
